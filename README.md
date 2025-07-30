@@ -94,6 +94,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ✉️ Contact
 
-Saurabh - [GitHub Profile](https://github.com/ankitranjan26)
+Ankit - [GitHub Profile](https://github.com/ankitranjan26)
 
 Project Link: [https://github.com/ankitranjan26/Ecommerce-website](https://github.com/ankitranjan26/Ecommerce-website)
