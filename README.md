@@ -54,7 +54,7 @@ Check out the live demo: [Fashion Nation](https://fashion-nation.vercel.app/)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Saurabh-101/Fashion-Nation.git
+   git clone https://github.com/ankitranjan26/Ecommerce-website.git
    ```
 
 2. Navigate to the project directory:
@@ -94,6 +94,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ✉️ Contact
 
-Saurabh - [GitHub Profile](https://github.com/Saurabh-101)
+Saurabh - [GitHub Profile](https://github.com/ankitranjan26)
 
-Project Link: [https://github.com/Saurabh-101/Fashion-Nation](https://github.com/Saurabh-101/Fashion-Nation)
+Project Link: [https://github.com/ankitranjan26/Ecommerce-website](https://github.com/ankitranjan26/Ecommerce-website)
